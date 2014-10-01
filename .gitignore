@@ -1,0 +1,7 @@
+# Created by .gitignore s.DS_Store
+.svn
+log/*.log
+tmp/**
+node_modules/
+.sass-cacheupport plugin (hsz.mobi)
+.idea/
