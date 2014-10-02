@@ -1,7 +1,7 @@
 # UnityとIDE
 
 @syo_sa1982
-/[twitter](twitter.com/syo_sa1982)
+/[facebook](https://www.facebook.com/syousa1982)
 /[github](http://syo-sa1982.github.io/)
 /[Qiita](http://qiita.com/syo-sa1982)
 
