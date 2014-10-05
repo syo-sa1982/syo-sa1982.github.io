@@ -97,7 +97,7 @@
 というわけで、実用に耐えうるかは正直微妙。  
 （ただ、Microsoftの人に訊けば、解決策を教えてくれるかも。）
 
-参考：[UnityのエディタをVisual Studio Express 2012に変更する](http://naichilab.blogspot.jp/2013/09/unitymacunityvisualstudio.html)
+参考：[UnityのエディタをVisual Studio Express 2012に変更する](http://naichilab.blogspot.jp/2013/09/unitymacunityvisualstudio.html)  
 参考：[MacとVisual Studio](http://rainpuzzle.net/wordpress/?p=117)
 
 
@@ -126,13 +126,13 @@ Xamarinを使いましょう。
 --
 
 ### 良かった点
-* Unity(OSX)でも日本語を打てちゃう。そう、xamarin studioならね。
+* 日本語打てる。
 * 動作も安定している。今のところは。
-* 補完もデフォルトのMonoDevelop並に効いてる
+* 補完もデフォルトのMonoDevelop並に効いてる。
 
 --
 
-参考：[Unity同梱のMonoDevelopだとMacで日本語入力できない問題をXamarin Studioで解決する](http://qiita.com/ariarijp/items/a07078ab89193ea35d17)
+参考：[Unity同梱のMonoDevelopだとMacで日本語入力できない問題をXamarin Studioで解決する](http://qiita.com/ariarijp/items/a07078ab89193ea35d17)  
 参考：[【Unity、Mac】UnityのエディタをXamarin Studioに変更する](http://naichilab.blogspot.jp/2014/03/unitymacunityxamarin-studio.html)
 
 --
