@@ -49,7 +49,8 @@
 * でもたまに挙動がおかしくなる
 * 右クリックメニューが使えなくなったり
 * コードの整形がうまく行かなかったり
-* たまに基底クラス読みに行かなかったり  
+* たまに基底クラス読みに行かなかったり
+* というかそもそも重い 
   
 (＃＃＾ω＾)ﾋﾟｷﾋﾟｷﾋﾟｷﾋﾟｷ
 
@@ -112,16 +113,36 @@
 ---
 
 いえいえ、そんなことはありません。  
-Xamarinを使いましょう。  
+XamarinStudioを使いましょう。  
 （ここからやっと本題）
 
 ---
 
-## ということで、Xamarinを使うことにしてみました。
+## ということで、XamarinStudioを使うことにしてみました。
 
 --
 
-所感としては…
+### XamarinStudioとは
+* Xamarin社が提供している統合開発環境
+* 中身のランタイムはMonoDevelopと同じ
+* その他の詳しい説明は下記参照
+
+[Xamarinを構成するソフトウェア。その主要な10要素とは？](http://www.buildinsider.net/mobile/insidexamarin/01) 
+
+--
+
+### インストール手順とか
+1. XamarinStudioとMono GTK#をインストール。
+	* ここからDL：[http://monodevelop.com/Download](http://monodevelop.com/Download) 
+	* Mono GTK#はMREとMDK両方要るかも。
+1. インストール後XamarinStudioを起動。  
+   アップデートを求められるので、指示に従い操作。
+1. Unityを起動して、Preference -> External Tools から、  
+   External Script EditorをXamarinStudioに指定。
+1. Asset -> Sync MonoDevelop Projectsをクリック
+	* この操作はUnity起動するたびに必要
+	* この操作をせずにUnityから直接script開くと、  
+	  補完が効かなかったりファイルツリーが表示されなかったり。
 
 --
 
@@ -129,8 +150,16 @@ Xamarinを使いましょう。
 * 日本語打てる。
 * 動作も安定している。今のところは。
 * 補完もデフォルトのMonoDevelop並に効いてる
+* セットアップするまでは比較的、楽
 
 --
+
+### 微妙な点
+* 起動するまでが少しだけめんどくさい
+	* でもまだ許容範囲だと思う
+* カラースキームとかもう少し楽に設定できたらいいのにと思うことはある。
+
+-- 
 
 参考：[Unity同梱のMonoDevelopだとMacで日本語入力できない問題をXamarin Studioで解決する](http://qiita.com/ariarijp/items/a07078ab89193ea35d17)  
 参考：[【Unity、Mac】UnityのエディタをXamarin Studioに変更する](http://naichilab.blogspot.jp/2014/03/unitymacunityxamarin-studio.html)
@@ -139,11 +168,12 @@ Xamarinを使いましょう。
 
 ## 結論
 
-
+##XamarinStudioは使える子です。
 
 ---
 
 ## おまけ
 SublimeTextでも対応できる模様  
-[SublimeText2でUnity開発するまでに必要なプラグイン集](http://qiita.com/kyusyukeigo/items/e9ac7bc284c884ea8391)
+[SublimeText2でUnity開発するまでに必要なプラグイン集](http://qiita.com/kyusyukeigo/items/e9ac7bc284c884ea8391)  
+[CompleteSharpでUnityスクリプトの補完方法](http://qiita.com/kyusyukeigo/items/a33388572990932bba87)
 
