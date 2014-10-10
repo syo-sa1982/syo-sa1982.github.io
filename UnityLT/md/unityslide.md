@@ -159,7 +159,7 @@ XamarinStudioを使いましょう。
 	* でもまだ許容範囲だと思う
 * カラースキームとかもう少し楽に設定できたらいいのにと思うことはある。
 
--- 
+--
 
 参考：[Unity同梱のMonoDevelopだとMacで日本語入力できない問題をXamarin Studioで解決する](http://qiita.com/ariarijp/items/a07078ab89193ea35d17)  
 参考：[【Unity、Mac】UnityのエディタをXamarin Studioに変更する](http://naichilab.blogspot.jp/2014/03/unitymacunityxamarin-studio.html)
