@@ -29,6 +29,8 @@
 
 ## MonoDevelopの何が嫌いなのか？
 
+### ↓
+
 --
 
 ### MonoDevelopの嫌いな所
@@ -63,6 +65,8 @@
 と、いうわけで「C#といえば、Visual Studioだよね！」  
 などと思いつき、Mac上でVisual Studioを  
 使おうとしたわけですが、結論から言うと…
+
+### ↓
 
 --
 
@@ -119,6 +123,9 @@ XamarinStudioを使いましょう。
 ---
 
 ## ということで、XamarinStudioを使うことにしてみました。
+
+
+### ↓
 
 --
 
