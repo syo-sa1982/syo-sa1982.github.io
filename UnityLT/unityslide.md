@@ -2,7 +2,7 @@
 
 @syo_sa1982
 /[facebook](https://www.facebook.com/syousa1982)
-/[github](http://syo-sa1982.github.io/)
+/[github](https://github.com/syo-sa1982)
 /[Qiita](http://qiita.com/syo-sa1982)
 
 ---
