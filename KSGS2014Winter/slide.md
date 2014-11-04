@@ -1,4 +1,4 @@
-# Unreal Engine4の勉強会に行ってきた
+# UE4勉強会行ってきた
 
 @syo_sa1982
 /[facebook](https://www.facebook.com/syousa1982)
@@ -24,6 +24,8 @@ KansaiDeveloperGathering 第２回
 ---
 
 ## 50分でわかるブループリントについて
+
+[50分でわかるブループリントについて](http://www.slideshare.net/masahikonakamura50/50-40986508)
 
 --
 
@@ -60,8 +62,6 @@ KansaiDeveloperGathering 第２回
 
 * ヴィジュアルスクリプトだけがブループリントではない
 
-@pafuhana1213 みんなゴリラ本で3D数学を学ぼう！それかヤマノススメ #UE4Study
-
 ## 柔軟なカスタマイズ可能なPrefab
 
 * Unityでも使われてますね。
@@ -78,11 +78,26 @@ KansaiDeveloperGathering 第２回
 * 親クラスを必ず継承
 * 実行ピンをいくらでも返すことが出来る
 
+* Sequenece、FlipFlop、DoN、Gate
+* @noshipu イベントディスパッチャーはUnityでいうSendMessage めもめもφ(｡_｡ ) 
+* @pafuhana1213 アニメーションブループリントはUnityのmecanimをイメージすると理解しやすいと思いま
+* @pafuhana1213 みんなゴリラ本で3D数学を学ぼう！それかヤマノススメ #UE4Study
+
+--
+
 ## メリット
 
 * ほとんどのゲームロジックを作成可能
 * 語弊を恐れずにいうとテキストベースのプログラミングより強力
 * 強力なリアルタイムプロパティ編集、ヴィジュアルデバッガの存在がでかい
+* UnityよりもPrefabの扱いが柔軟
+* アニメーション関連もBPだけで完結
+
+-- 
+
+## つまり、最低限のロジックと数学の知識があれば、BPでゲームが作れる
+
+-- 
 
 #＃ デメリット
 
@@ -92,10 +107,14 @@ KansaiDeveloperGathering 第２回
 ---
 
 ## 猫でも分かるUE4
+[猫でも分かるUE4](http://www.slideshare.net/pafuhana/unreal-engine4ue4-2014111)
+    
 
 --
 
-/[猫でも分かるUE4](http://t.co/sCFPLUwbuU)
+* 時間がなくても見た目リッチなゲームが作れる。そう、UE4ならね。
+* スライドがわかりやすかったです（小並感
+
 
 
 ---
