@@ -79,7 +79,6 @@ KansaiDeveloperGathering 第２回
 
 …等々、丁寧に説明していました。
 
-
 --
 
 ## 感想
@@ -93,6 +92,13 @@ KansaiDeveloperGathering 第２回
 ### [パーティクルへのライティング](http://www.slideshare.net/toaru_designer/ue4-41024572)
 
 某グラフックデザイナーさん
+
+--
+
+## どんな内容？
+
+* パーティクルについて、実践的なこと等説明していました。
+* スライドだけでなく実演も交えての講演。
 
 --
 
