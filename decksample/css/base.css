@@ -17,6 +17,7 @@ body{
 	width: 240px;
 	margin: 0 auto;
 	line-height: 140%;
+	background-color: #343434;
 }
 
 .controller{
@@ -31,17 +32,16 @@ body{
 #sums_table{
 	-webkit-transition:0.5s;
 }
-.page-container{
-	width:240px;
-	position:relative;
-	overflow:hidden;
-	margin:0 auto;
-}
+
 .spacer{
 	height:3px;
 }
 .clearfix{
 	clear: both;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	height: 0px;
 }
 .title{
 	width:100%;
@@ -64,6 +64,7 @@ body{
 	top: 18px;
 	left: 0px;
 }
+.fs_12 {font-size: 12px;}
 
 /*
 吸着ヘッダー部分
@@ -94,11 +95,18 @@ body{
 
 /* デッキ */
 .decks {
-	margin-top: 70px;
+	margin-top: 52px;
+	margin-left: -1px;
+	width: 240px;
+	list-style: none;
 }
 
 .decks li{
 	float: left;
-	width: 54px;
-	height: 54px;
+	width: 55px;
+	height: 70px;
+	margin-left: 5px;
+	margin-bottom: 5px;
+	line-height: 1;
+	text-align: center;
 }
