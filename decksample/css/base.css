@@ -56,6 +56,7 @@ body{
 	width:240px;
 	position:relative;
 	margin:0 auto;
+	padding-bottom: 10px;
 }
 
 #sticky-controller {
@@ -64,6 +65,11 @@ body{
 	top: 18px;
 	left: 0px;
 }
+.fs_7  {font-size:  7px;}
+.fs_8  {font-size:  8px;}
+.fs_9  {font-size:  9px;}
+.fs_10 {font-size: 10px;}
+.fs_11 {font-size: 11px;}
 .fs_12 {font-size: 12px;}
 
 /*
@@ -101,12 +107,27 @@ body{
 	list-style: none;
 }
 
-.decks li{
+.decks.view-sum li{
 	float: left;
 	width: 55px;
 	height: 70px;
 	margin-left: 5px;
 	margin-bottom: 5px;
-	line-height: 1;
+	line-height: 11px;
+	text-align: center;
+}
+.decks.view-list li{
+	width: 90%;
+	height: 70px;
+	margin: 0 auto 5px;
+	line-height: 11px;
+	text-align: left;
+}
+
+
+#more-btn {
+	display: block;
+	margin: 0 auto;
+	width: 55%;
 	text-align: center;
 }

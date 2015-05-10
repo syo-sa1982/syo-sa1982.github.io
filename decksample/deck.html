@@ -13,10 +13,11 @@
 <div class="sp-container">
 	<h3 class="title">デッキのサンプルっぽいやつ</h3>
 	<div id="page-container" class="page-container">
+		<!--<ul id="decks" class="decks view-list">-->
 		<ul id="decks" class="decks view-sum">
 			<script type="text/template" data-template="item">
 				<% _.each(list, function (e, i) { %>
-					<li class="fs_12">
+					<li class="fs_7">
 						<img src="http://ddragon.leagueoflegends.com/cdn/5.2.1/img/champion/<%= e.id %>.png" width="52" height="52" />
 						<%= e.stats.hp %>
 					</li>
@@ -24,6 +25,7 @@
 			</script>
 		</ul>
 		<div class="clearfix"></div>
+		<button type="button" id="more-btn" class="btn btn-primary">もっと見る</button>
 	</div>
 </div>
 
