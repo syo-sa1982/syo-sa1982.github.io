@@ -33,7 +33,6 @@ DeckView.prototype.onScroll = function(e) {
 };
 
 DeckView.prototype.render = function(data) {
-	this.data = data;
 	console.log(data);
 	var html = this.template({
 		list: this.dataFormat(data)
@@ -51,8 +50,6 @@ DeckView.prototype.dataFormat = function (data,sendedData){
 
 	for(var i in data){
 		if (self.loadNum <= cnt){break;}
-		console.log(i);
-
 		resultData[i] = data[i];
 		cnt++;
 	}

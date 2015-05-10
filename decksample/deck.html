@@ -19,6 +19,7 @@
 				<% _.each(list, function (e, i) { %>
 					<li class="fs_7">
 						<img src="http://ddragon.leagueoflegends.com/cdn/5.2.1/img/champion/<%= e.id %>.png" width="52" height="52" />
+						<%= i %><br />
 						<%= e.stats.hp %>
 					</li>
 				<% }); %>
@@ -27,6 +28,7 @@
 		<div class="clearfix"></div>
 		<button type="button" id="more-btn" class="btn btn-primary">もっと見る</button>
 	</div>
+	<div id="footer">フッターの様な何か</div>
 </div>
 
 <div id="sticky-controller" class="sticky-controller">

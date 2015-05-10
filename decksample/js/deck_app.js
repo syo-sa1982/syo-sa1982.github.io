@@ -9,9 +9,9 @@ function DeckApp (el){
 
 	this.fetch(self.url).then(function(fetchData) {
 
-		self.data = fetchData.data;
+		self.view.data = fetchData.data;
 //		self.sendView(self);
-		self.view.render(self.data);
+		self.view.render(self.view.data);
 	}, function(e) {
 		console.error("取得失敗");
 	});
