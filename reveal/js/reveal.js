@@ -27,7 +27,7 @@ var Reveal = (function(){
 
 			// Bounds for smallest/largest possible scale to apply to content
 			minScale: 0.2,
-			maxScale: 1.0,
+			maxScale: 2.0,
 
 			// Display controls in the bottom right corner
 			controls: true,
