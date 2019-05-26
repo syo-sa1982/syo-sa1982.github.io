@@ -20,7 +20,7 @@ job : Software engineer at NextInnovation Co., Ltd.
 
 ## Game
 
-- FF14
+- [FF14](https://jp.finalfantasyxiv.com/lodestone/character/7324621/)
   - GaiaDC, Alexander World
 - FGO
 - Division2
