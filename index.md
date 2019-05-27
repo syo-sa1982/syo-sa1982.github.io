@@ -10,11 +10,11 @@ job : Software engineer at NextInnovation Co., Ltd.
 
 ## JobCareer
 
-- https://docs.google.com/document/d/1mE4b_l8enPWNUWmy1dfMH0XJdDT1XkG3w-_HFmAlDbo/edit?usp=sharing
+- [MySkillSheet](https://docs.google.com/document/d/1mE4b_l8enPWNUWmy1dfMH0XJdDT1XkG3w-_HFmAlDbo/edit?usp=sharing)
 
 ## PrivateWork
 
-- https://play.google.com/store/apps/developer?id=syo_sa1982
+- [AndroidApps](https://play.google.com/store/apps/developer?id=syo_sa1982)
 
 # Hobby
 
