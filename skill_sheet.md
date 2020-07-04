@@ -41,7 +41,7 @@
 - Jenkins
 - Fastlane
 - Firebase
-***
+---
 
 # 開発経歴
 ## フェムテック系オンライン診察サービス
@@ -143,7 +143,7 @@
 ### 担当した業務
 - フィーチャーフォン向けの位置情報ゲームの運用開発に参画。
 - 新規機能の追加を3件とスマートフォン向けUIの開発を担当。
-***
+---
 
 # 実務外の開発経験
 ## 2020年2月
@@ -179,7 +179,7 @@
 - 某TRPGをモデルにしたゲームの開発。
 - 諸事情につき開発中止
 - https://github.com/syo-sa1982/TRPGlikeRPGMockUp
-***
+---
 
 # 自己PR
 - Androidアプリ開発に関心が高く、2019年夏頃に個人開発で [Androidアプリをリリース](https://play.google.com/store/apps/details?id=com.syousa1982.todo4android) しました。
