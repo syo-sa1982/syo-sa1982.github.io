@@ -1,16 +1,14 @@
 # Profile
 
-id : syo-sa1982
-
-name : Yosuke Fujii
-
-job : Software engineer at NextInnovation Co., Ltd.
+- id : syo-sa1982
+- name : Yosuke Fujii
+- job : Android App Engineer 
 
 # Work
 
 ## JobCareer
 
-- [MySkillSheet](https://docs.google.com/document/d/1mE4b_l8enPWNUWmy1dfMH0XJdDT1XkG3w-_HFmAlDbo/edit?usp=sharing)
+- See [MySkillSheet](/skill_sheet)
 
 ## PrivateWork
 
@@ -18,22 +16,16 @@ job : Software engineer at NextInnovation Co., Ltd.
 
 # Hobby
 
-## Game
-
-- [FF14](https://jp.finalfantasyxiv.com/lodestone/character/7324621/)
-  - GaiaDC, Alexander World
-- FGO
-- Division2
-
-# Like
-
-- CraftBeer
-- Curry
+- Game
+- Dig CraftBeer 
+- Curry making
+- MixedMartialArtsWatch
 
 # Links
 
 - [GitHub](https://github.com/syo-sa1982)
-- [Twitter](https://twitter.com/syo_sa1982)
+- [Twitter](https://twitter.com/syousa1982)
 - [FaceBook](https://www.facebook.com/syousa1982)
 - [Eight](https://8card.net/p/39857356914)
 - [Blog](https://syo-sa19820615.hatenablog.com/)
+- [YouTrust](https://youtrust.jp/users/d8d4b25138f4996afa4c245eb1478a6b/)
