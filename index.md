@@ -8,7 +8,8 @@
 
 ## JobCareer
 
-- See [MySkillSheet](/skill_sheet)
+- [SkillSheet](https://drive.google.com/file/d/1D9Alc0jFSaUrUBs-sIZ3agEkR8KofeIv/view?usp=sharing)
+- [WorkPolicy](https://github.com/syo-sa1982/WorkPolicy)
 
 ## PrivateWork
 
@@ -16,15 +17,13 @@
 
 # Hobby
 
-- Game
-- Dig CraftBeer 
-- Curry making
-- MixedMartialArtsWatch
+- ゲーム
+- ブラジリアン柔術
 
 # Links
 
 - [GitHub](https://github.com/syo-sa1982)
-- [Twitter](https://twitter.com/syousa1982)
+- [Twitter](https://twitter.com/kusakabe_dev)
 - [FaceBook](https://www.facebook.com/syousa1982)
 - [Eight](https://8card.net/p/39857356914)
 - [Blog](https://syo-sa19820615.hatenablog.com/)
