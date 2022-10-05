@@ -18,6 +18,8 @@
 # Hobby
 
 - ゲーム
+  - [FF14](https://jp.finalfantasyxiv.com/lodestone/character/7324621/)
+  - Switchフレコ：SW-0620-3647-5611
 - ブラジリアン柔術
 
 # Links
